@@ -1,1 +1,25 @@
 theme: jekyll-theme-tactile
+
+title: Eric Englin # your name (or website title) here
+logo: "/images/eric-englin.jpg?raw=true" # your photo (or logo) here
+description: > # your text below (remove <br> elements if you don't need line breaks)
+  Graduate Student at Harvard Kennedy School
+  <br><br>
+  Working on data science projects to support the public good and improve government agencies.
+  <br><br>
+  <a href="https://www.linkedin.com/in/ericenglin/">View My LinkedIn Profile</a>
+
+google_analytics: UA-151918240-1 # your Google Analytics tracking ID here
+
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: false
+      read_time: true
+      comments: true
+      share: true
+      related: true
