@@ -1,26 +1,26 @@
 ## Portfolio
 
-### Amtrak Ridership Visualization
-**[Repo](https://github.com/ericenglin/Amtrak-Web-Scraper)**
-<img src="images/Amtrak-Ridership.png?raw=true"/>
+### Reddit API Data Pull
+**[Repo](./pages/reddit-data-pull.md)**
+<img src="images/reddit.png?raw=true"/>
 
 ---
-### National Parks Webscrape
-**[Repo](https://github.com/ericenglin/NPS-Website-Scrape)**
-<img src="images/NPS-Site-Screenshot.png?raw=true"/>
+### Reddit EDA
+**[Repo](./pages/reddit-eda.md)**
+<img src="images/reddit_score.png?raw=true"/>
 
 ---
-### Micromobility Text Analysis
-**[Repo](./pages/micromobility-page.md)**
+### Twitter API Data Pull
+**[Repo](./pages/twitter-data-pull.md)**
 
-<img src="images/micromobility-word-cloud.png?raw=true"/>
+<img src="images/twitter-donald.jpg?raw=true"/>
 
 
 ---
 
-### Hawaii Homelessness Projects
+### Reddit NLP Model Development
 
-**[Tableau Repo](https://public.tableau.com/profile/ericenglin#!/)**
+**[Repo](./pages/nlp-model-dev.md)**
 <img src="images/Tableau-Public.png?raw=true"/>
 
 ---
