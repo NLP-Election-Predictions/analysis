@@ -1,7 +1,6 @@
 ## CS 109
 ## Predicting Election Outcomes Using Reddit Posts & Tweets
 
-#### Readme
 
 ```python
 
@@ -23,3 +22,11 @@ from bs4 import BeautifulSoup
 import requests
 
 ```
+
+<img src="./images/reddit_score_eda.png?raw=true"/>
+
+
+<img src="./images/reddit_score_eda2.png?raw=true"/>
+
+<img src="./images/reddit_score_eda3.png?raw=true"/>
+<img src="./images/reddit_score_eda_wordcloud.png?raw=true"/>
