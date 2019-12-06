@@ -1,15 +1,13 @@
-theme: jekyll-theme-tactile
-
 title: Eric Englin # your name (or website title) here
 logo: "/images/eric-englin.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  Graduate Students at Harvard Kennedy School
+  Graduate Student at Harvard Kennedy School
   <br><br>
-  Predicting Election Outcomes Using Reddit Posts & Tweets.
+  Working on data science projects to support the public good and improve government agencies.
   <br><br>
-  <a href="https://github.com/NLP-Election-Predictions/elections">View Our Full Code</a>
+  <a href="https://www.linkedin.com/in/ericenglin/">View My LinkedIn Profile</a>
 
-google_analytics: UA-151918240-1 # your Google Analytics tracking ID here
+theme: jekyll-theme-tactile
 
 defaults:
   # _posts
