@@ -21,15 +21,6 @@
 ### Reddit NLP Model Development
 
 **[Repo](./pages/nlp-model-dev.md)**
-<img src="images/Tableau-Public.png?raw=true"/>
-
----
-
-
----
-
-### Harvard School Projects
-**[Repo](./pages/harvard-schoolwork.md)**
-<img src="images/NYC-gentrification.png?raw=true"/>
+<img src="images/nlp-pic.png?raw=true"/>
 
 ---
