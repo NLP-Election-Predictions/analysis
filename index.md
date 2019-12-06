@@ -5,9 +5,8 @@
 <img src="images/reddit.png?raw=true"/>
 
 ---
-### [Reddit EDA
-**Repo**
-<img src="images/reddit_score.png?raw=true"/>](./pages/reddit-eda.md)
+### [Reddit EDA](./pages/reddit-eda.md)
+[<img src="images/reddit_score.png?raw=true"/>](./pages/reddit-eda.md)
 
 ---
 ### Twitter API Data Pull

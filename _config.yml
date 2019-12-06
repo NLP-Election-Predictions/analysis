@@ -1,11 +1,10 @@
 title: Eric Englin # your name (or website title) here
 logo: "/images/eric-englin.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  Graduate Students at Harvard Kennedy School
-  <br><br>
   Using Reddit and Twitter posts to predict election outcomes.
   <br><br>
   <a href="https://github.com/NLP-Election-Predictions/elections">View Full Github Repo Here</a>
+  <a href="https://github.com/NLP-Election-Predictions/elections/about-us.md">About The Team</a>
 
 theme: jekyll-theme-tactile
 
