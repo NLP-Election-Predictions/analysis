@@ -23,6 +23,8 @@ import requests
 
 ```
 
+This is the immage that is generated:
+
 <img src="./images/reddit_score_eda.png"/>
 
 
