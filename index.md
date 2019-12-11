@@ -34,7 +34,7 @@
 ---
 
 ### [Other APIs Considered](https://nlp-election-predictions.github.io/elections/other-api.md)
-[<img src="images/twitter-donald.jpg?raw=true"/>](https://nlp-election-predictions.github.io/elections/other-api.md)
+[<img src="images/voting.jpg?raw=true"/>](https://nlp-election-predictions.github.io/elections/other-api.md)
 
 
 ---
