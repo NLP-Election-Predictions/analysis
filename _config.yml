@@ -5,9 +5,15 @@ description: > # your text below (remove <br> elements if you don't need line br
   <br><br>
   <a href="https://nlp-election-predictions.github.io/elections/">Home Page</a>
   <br>
-  <a href="https://github.com/NLP-Election-Predictions/elections">Github Repo</a>
+  <a href="https://github.com/NLP-Election-Predictions/elections/pages/reddit-data-pull.html">Reddit Data Pull</a>
+  <br>
+  <a href="https://github.com/NLP-Election-Predictions/elections/pages/reddit-eda.html">Reddit EDA</a>
+  <br>
+  <a href="https://github.com/NLP-Election-Predictions/elections/pages/nlp-model-dev.html">NLP Model Development</a>
   <br>
   <a href="https://nlp-election-predictions.github.io/elections/pages/about-us.html">About Us</a>
+  <br>
+  <a href="https://github.com/NLP-Election-Predictions/elections">Github Repo</a>
 
 theme: jekyll-theme-tactile
 
