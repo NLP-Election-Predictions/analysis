@@ -9,6 +9,8 @@ description: > # your text below (remove <br> elements if you don't need line br
   <br>
   <a href="https://nlp-election-predictions.github.io/elections/pages/reddit-eda.html">Reddit EDA</a>
   <br>
+  <a href="https://nlp-election-predictions.github.io/elections/pages/other-api.html">Other APIs Considered</a>
+  <br>
   <a href="https://nlp-election-predictions.github.io/elections/pages/nlp-model-dev.html">NLP Model Development</a>
   <br>
   <a href="https://nlp-election-predictions.github.io/elections/pages/results.html">Final Results</a>
