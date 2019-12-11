@@ -1,4 +1,4 @@
-## Twitter API Data Pull
+## Other Social Media APIs Considered
 
 **Overall Context**
 

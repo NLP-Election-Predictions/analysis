@@ -1,8 +1,11 @@
-## Project Home Page
+## Home Page
 
 ### Project Overview
 
-**Problem Statement:** The aim of our project is to see if there is any relationship between election outcomes and ideological posts on social media. 
+**Problem Statement:** The aim of our project is to see if there is any relationship between election outcomes and ideological posts on social media. Due to the dynamic nature of social networks, there is an abundance of user-generated information. Our work relies solely on user-generated words to classify posts into ideological groupings.
+
+
+### Modules
 
 ### [Reddit API Data Pull](./pages/reddit-data-pull.md)
 [<img src="images/reddit.png?raw=true"/>](./pages/reddit-data-pull.md)
