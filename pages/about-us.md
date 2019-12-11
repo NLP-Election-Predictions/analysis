@@ -9,3 +9,5 @@
 <img src="./../images/jake-schneider.jpeg?raw=true"/>
 
 **Sebas Acevedo:** is a 2nd year MPA/ID graduate student at Harvard Kennedy School.
+
+<img src="./../images/cat.jpg?raw=true"/>
