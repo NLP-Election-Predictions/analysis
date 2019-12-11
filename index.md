@@ -1,4 +1,4 @@
-## Portfolio
+## Project Home Page 
 
 ### [Reddit API Data Pull](./pages/reddit-data-pull.md)
 [<img src="images/reddit.png?raw=true"/>](./pages/reddit-data-pull.md)
