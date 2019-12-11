@@ -1,4 +1,8 @@
-## Project Home Page 
+## Project Home Page
+
+### Project Overview
+
+**Problem Statement:** The aim of our project is to see if there is any relationship between election outcomes and ideological posts on social media. 
 
 ### [Reddit API Data Pull](./pages/reddit-data-pull.md)
 [<img src="images/reddit.png?raw=true"/>](./pages/reddit-data-pull.md)
