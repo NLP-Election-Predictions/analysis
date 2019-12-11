@@ -42,7 +42,7 @@ There is an extreme outlier in the conservative thread titled: "Why we won", whi
 <img src="./../images/reddit_score_test.png?raw=true"/>
 
 
-**Frequency Graphs:** Due to the different nature of the groups, the top 20 words were fairly different, so we needed to look at the frequency graphs for each group individually. For 2018, these are shown below.
+**Frequency Graphs:** Due to the different nature of the groups, the top 20 words were fairly different, so we needed to look at the frequency graphs for each group individually. For 2018, these are shown below. Politics has the words that are the most similar to the top frequency words in our political ideology 
 
 <img src="./../images/politics-freq-2018.png?raw=true"/>
 <img src="./../images/economics_freq_2018.png?raw=true"/>
