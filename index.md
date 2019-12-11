@@ -5,11 +5,11 @@
 **Problem Statement:** The aim of our project is to see if there is any relationship between election outcomes and ideological posts on social media. Due to the dynamic nature of social networks, there is an abundance of user-generated information. Our work relies solely on user-generated words to classify posts into ideological groupings.
 
 **Workflow Process:**
-
+<ul>
 -Pull information from Reddit
 -Perform EDA on Reddit user-generated content
 -Build NLP models using this content to assess political ideology
-
+</ul>
 
 
 ### Modules
