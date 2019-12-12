@@ -14,27 +14,30 @@
 
 ### Modules
 
-### [Reddit API Data Pull](https://nlp-election-predictions.github.io/elections/reddit-api-pull.md)
-[<img src="images/reddit.png?raw=true"/>](https://nlp-election-predictions.github.io/elections/reddit-api-pull.md)
+### [Reddit API Data Pull](https://nlp-election-predictions.github.io/elections/pages/reddit-api-pull.md)
+[<img src="images/reddit.png?raw=true"/>](https://nlp-election-predictions.github.io/elections/pages/reddit-api-pull.md)
 
 ---
-### [Reddit EDA](https://nlp-election-predictions.github.io/elections/reddit-Media.md)
-[<img src="images/reddit_score.png?raw=true"/>](https://nlp-election-predictions.github.io/elections/reddit-eda.md)
-
----
-
-### [Reddit NLP Model Development](https://nlp-election-predictions.github.io/elections/nlp-model-dev.md)
-[<img src="images/nlp-pic.png?raw=true"/>](https://nlp-election-predictions.github.io/elections/nlp-model-dev.md)
+### [Reddit EDA](https://nlp-election-predictions.github.io/elections/pages/reddit-eda.md)
+[<img src="images/reddit_score.png?raw=true"/>](https://nlp-election-predictions.github.io/elections/pages/eddit-eda.md)
 
 ---
 
-### [Results](https://nlp-election-predictions.github.io/elections/results.md)
-[<img src="images/nlp-pic.png?raw=true"/>](https://nlp-election-predictions.github.io/elections/results.md)
+### [Reddit NLP Model Development](https://nlp-election-predictions.github.io/elections/pages/nlp-model-dev.md)
+[<img src="images/nlp-pic.png?raw=true"/>](https://nlp-election-predictions.github.io/elections/pages/nlp-model-dev.md)
 
 ---
 
-### [Other APIs Considered](https://nlp-election-predictions.github.io/elections/other-api.md)
-[<img src="images/voting.jpg?raw=true"/>](https://nlp-election-predictions.github.io/elections/other-api.md)
+### [Results](https://nlp-election-predictions.github.io/elections/pages/results.md)
+[<img src="images/voting.png?raw=true"/>](https://nlp-election-predictions.github.io/elections/pages/results.md)
+
+---
+
+### [Other APIs Considered](https://nlp-election-predictions.github.io/elections/pages/other-api.md)
+[<img src="images/twitter-donald.jpg?raw=true"/>](https://nlp-election-predictions.github.io/elections/pages/other-api.md)
 
 
 ---
+
+## Thank You!!
+<img src="images/cat.jpg?raw=true"/>
