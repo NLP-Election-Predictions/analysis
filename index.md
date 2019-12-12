@@ -29,7 +29,7 @@
 ---
 
 ### [Results](https://nlp-election-predictions.github.io/elections/pages/results.md)
-[<img src="images/voting.png?raw=true"/>](https://nlp-election-predictions.github.io/elections/pages/results.md)
+[<img src="images/voting.jpg?raw=true"/>](https://nlp-election-predictions.github.io/elections/pages/results.md)
 
 ---
 
