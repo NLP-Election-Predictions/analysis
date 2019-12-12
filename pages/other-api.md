@@ -25,6 +25,3 @@ This was a low point for the moral of the group.
 **The Facebook API**
 
 The Facebook API was equally challenging but much less tragic. We investigated the documentation and created developer accounts with Facebook (you need to register an App), but quickly discovered how challenging it was to correctly call this API. After numerous frustrating hours, we abandoned this API for the ill-fated Twitter API. It does not appear that there is a quality method to access Facebook through Python. Instead all get requests must go through their requests page and requests are again limited monthly on free API access versions. Both of these cause substantial issues in the research process.  
-
-
-**The LinkedIn API**
