@@ -1,8 +1,8 @@
 ## Results
 
-**And the Results Are...**
+**And the Results Are**
 
-[<img src="images/Table1.jpeg?raw=true"/>]
+<img src="./../images/test-groups.jpeg?raw=true"/>
 
 
 **Did it Work?**
