@@ -4,6 +4,7 @@ description: > # your text below (remove <br> elements if you don't need line br
   Using Reddit and Twitter posts to predict election outcomes.
   <br><br>
   <b>Main Links</b>
+  
   <a href="https://nlp-election-predictions.github.io/elections/">Home Page</a>
   <br>
   <a href="https://nlp-election-predictions.github.io/elections/pages/reddit-data-pull.html">Reddit Data Pull</a>
@@ -19,6 +20,7 @@ description: > # your text below (remove <br> elements if you don't need line br
   <br>
   <br>
   <b>Other Links</b>
+
   <a href="https://nlp-election-predictions.github.io/elections/pages/other-api.html">Other APIs Considered</a>
   <br>
   <a href="https://nlp-election-predictions.github.io/elections/pages/about-us.html">About Us</a>
