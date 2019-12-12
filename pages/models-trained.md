@@ -8,11 +8,13 @@ In order to select the best algorithm for predicting conservative or liberal twe
 
 To do this, we trained our in-sample data on 5 models, including Multiple Logistic Regression, LASSO Logistic, Principal Components Regression (PCR), Random Forest and Neural Networks. We chose these models because they demonstrated increasing complexity (with Neural Networks being the most complex) and they drew from different and distinct methodological approaches in order to achieve classification. For instance, LASSO is a regularization methodology while Random Forest is a tree-based approach.
 
+<img src="./../images/Models.jpeg?raw=true"/>
+
 **The Winner Is ...**
 
 After testing all of the above-mentioned models on the testing data (whether a Redditer was a self-reported Liberal, Conservative or Moderate), we compared the accuracy rates (as shown below in *table 1*) and found that **Random Forest** was our best algorithm with a score of 86.17% accuracy.
 
-<img src="./../images/Models.jpeg?raw=true"/>
+<img src="./../images/rf_cm.jpeg?raw=true"/>
 
 
 **Do It, Do It Now!!!**
