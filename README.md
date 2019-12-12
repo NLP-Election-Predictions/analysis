@@ -1,3 +1,4 @@
-## Developer Portfolio Landing Page Template
+## CS 109 A Final Project Website
 
-<h1>This is a website showing Eric Englin's portfolio of projects</h1>
+#### Predicting Election Outcomes Using Social Media Data
+
