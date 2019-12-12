@@ -6,7 +6,7 @@ Once we had our models developed, we believed that the random forest had the bes
 
 Politics was our biggest group by far, and our quick analysis of the top frequency words showed quite a bit of overlap with our training subreddit groups. The graph below shows our final results on this subreddit group. There is a stark favor towards Conservative predictions with our model. Overall, we predicted *98.7%* of the posts were conservative.
 
-<img src="./../images/Predictions_results.jpeg?raw=true"/>
+<img src="./../images/Prediction_results.jpeg?raw=true"/>
 
 
 
