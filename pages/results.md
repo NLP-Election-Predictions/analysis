@@ -21,4 +21,5 @@ Interestingly, Arizona was our most liberal group. In that state, 2 of the 9 Con
 
 
 **Future Research and Improving the Model**
+
 Unfortunately, this is likely inaccurate and represents the biased samples that we used to train our models.
