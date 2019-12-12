@@ -22,4 +22,6 @@ Interestingly, Arizona was our most liberal group. In that state, 2 of the 9 Con
 
 **Future Research and Improving the Model**
 
-Unfortunately, this is likely inaccurate and represents the biased samples that we used to train our models.
+While our first set of predictions looked optimistic, we realized that the imbalanced training data was leading us to the mistake of predicting almost all observation as conservative, since 86% of them belonged to that category. In order to mitigate this problem, we first took out the stratification from the splitting procedure so our training and test data would not have a similar proportion of conservatives. Seeing that this was not enough, our second intervention consisted in up-sampling the liberal observations so our data would be less biased towards conservatives. This allowed us to increase the proportion of liberals in the predictions to levels that seem more reasonable. While we also tried down-sampling conservatives, this did not increase the capacity of the model. Future work could include re-weighting the observations.
+
+Future work should explore sentiment analysis of the publications to include in the models, as well as the use of clustering methods that could help identify types of publications.
