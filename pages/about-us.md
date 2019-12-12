@@ -12,4 +12,4 @@
 ##Sebas Acevedo
 **Sebas Acevedo:** is a 2nd year MPA/ID graduate student at Harvard Kennedy School.
 
-<img src="./../images/sebas.jpg?raw=true"/>
+<img src="./../images/sebas.JPG?raw=true"/>

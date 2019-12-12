@@ -10,7 +10,7 @@ To do this, we trained our in-sample data on 5 models, including Multiple Logist
 
 **The Winner Is ...**
 
-After testing all of the above-mentioned models on the testing data (whether a Redditer was a self-reported Liberal, Conservative or Moderate), we compared the accuracy rates (as shown below in *table 1*) and found that **Random Forest** was our best algorithm with a score of 86.30% accuracy.
+After testing all of the above-mentioned models on the testing data (whether a Redditer was a self-reported Liberal, Conservative or Moderate), we compared the accuracy rates (as shown below in *table 1*) and found that **Random Forest** was our best algorithm with a score of 86.17% accuracy.
 
 <img src="./../images/Models.jpeg?raw=true"/>
 
