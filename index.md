@@ -14,12 +14,12 @@
 
 ### Modules
 
-### [Reddit API Data Pull](https://nlp-election-predictions.github.io/elections/pages/reddit-api-pull.html)
-[<img src="images/reddit.png?raw=true"/>](https://nlp-election-predictions.github.io/elections/pages/reddit-api-pull.html)
+### [Reddit API Data Pull](https://nlp-election-predictions.github.io/elections/pages/reddit-data-pull.html)
+[<img src="images/reddit.png?raw=true"/>](https://nlp-election-predictions.github.io/elections/pages/reddit-data-pull.html)
 
 ---
 ### [Reddit EDA](https://nlp-election-predictions.github.io/elections/pages/reddit-eda.html)
-[<img src="images/reddit_score.png?raw=true"/>](https://nlp-election-predictions.github.io/elections/pages/eddit-eda.html)
+[<img src="images/reddit_score.png?raw=true"/>](https://nlp-election-predictions.github.io/elections/pages/reddit-eda.html)
 
 ---
 
